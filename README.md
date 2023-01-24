@@ -8,14 +8,14 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы (ссылку вы найдете в письме на вашей эл. почте).
 
-[6.1	Лицензирование. Ресурсы 1С-Битрикс](https://github.com/netology-code/bpatt-homeworks/blob/main/6_01/6_01%20licensing.md)
+[6.1	Лицензирование. Ресурсы 1С-Битрикс](https://github.com/TomSG03/bpatt-homeworks/blob/main/6_01/6_01%20licensing.md)
 
-[6.2	Установка. Базовые настройки. Резервное копирование](https://github.com/netology-code/bpatt-homeworks/blob/main/6_02/6_02%20Installation.md)
+[6.2	Установка. Базовые настройки. Резервное копирование](https://github.com/TomSG03/bpatt-homeworks/blob/main/6_02/6_02%20Installation.md)
 
-[6.3	Структура Битрикс. Экскурсия по админке)](https://github.com/netology-code/bpatt-homeworks/blob/main/6_03/6_03%20Bitrix%20structure.md)
+[6.3	Структура Битрикс. Экскурсия по админке)](https://github.com/TomSG03/bpatt-homeworks/blob/main/6_03/6_03%20Bitrix%20structure.md)
 
-[6.4	Страницы и разделы. Работа с редактором](https://github.com/netology-code/bpatt-homeworks/blob/main/6_04/6_04%20Editor.md)
+[6.4	Страницы и разделы. Работа с редактором](https://github.com/TomSG03/bpatt-homeworks/blob/main/6_04/6_04%20Editor.md)
 
-[6.5	Управление и создание меню](https://github.com/netology-code/bpatt-homeworks/blob/main/6_05/6_05%20Menu.md)
+[6.5	Управление и создание меню](https://github.com/TomSG03/bpatt-homeworks/blob/main/6_05/6_05%20Menu.md)
 
 
